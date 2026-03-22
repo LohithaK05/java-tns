@@ -1,0 +1,8 @@
+package polymorphism_overriden;
+
+public class RBI {
+	public void rateofInterest()
+	{
+		System.out.println("the rate of interest is 5%");
+	}
+}
